@@ -30,7 +30,7 @@ const Header = () => {
   };
 
   const downloadResume = () => {
-    window.open('https://drive.google.com/file/d/18HTLsFQZrfqbRDLUJLCVOHoQ5f3DfbL0/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1o5ly0U-0MBF4COaGm0__xFcm0ARZPBmZ/view?usp=sharing', '_blank');
   };
 
   return (
